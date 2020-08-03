@@ -1,0 +1,210 @@
+﻿<Window x:Class="Library_system_v2__database_SQLite_.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library_system_v2__database_SQLite_"
+        mc:Ignorable="d"
+        ResizeMode="CanMinimize"
+        WindowStartupLocation="CenterScreen"
+        Closing="MainWindow_Closing"
+        WindowStyle="None"
+        Height="450" 
+        Width="500">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Library system v2 (database SQLite);component/Images/library.png"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+
+        </Grid.RowDefinitions>
+         
+        <Label Grid.Column="0"
+               Grid.ColumnSpan="8"
+               Grid.Row="0"
+               VerticalContentAlignment="Center"
+               HorizontalContentAlignment="Center"
+               Content="Library Borrowing Record System"
+               FontWeight="Bold"
+               FontStyle="Italic" 
+               FontFamily="Rockwell Extra Bold" 
+               FontSize="22" 
+               Foreground="White"/>
+        
+        <Label Grid.Column="2"
+               Grid.ColumnSpan="4"
+               Grid.Row="1"
+               HorizontalContentAlignment="Center"
+               VerticalContentAlignment="Center"
+               Content="WELCOME"
+               FontWeight="Bold"
+               FontStyle="Italic" 
+               FontFamily="Rockwell Extra Bold" 
+               FontSize="20"
+               Foreground="White"/>
+        
+        <Button Grid.Column="0"
+                Grid.ColumnSpan="4"
+                Grid.Row="2"
+                Content="Add Student"
+                Click="AddStudentButton_Click"
+                FontWeight="Bold"
+                FontStyle="Italic" 
+                FontFamily="Rockwell Extra Bold"
+                FontSize="16"
+                Foreground="White"
+                Background="#00000000"/>
+
+        <Button Grid.Column="0"
+                Grid.ColumnSpan="4"
+                Grid.Row="3"
+                Content="Edit Student"
+                Click="EditStudentButton_Click"
+                FontWeight="Bold"
+                FontStyle="Italic" 
+                FontFamily="Rockwell Extra Bold"
+                FontSize="16"
+                Foreground="White"
+                Background="#00000000"/>
+
+        <Button Grid.Column="0"
+                Grid.ColumnSpan="4"
+                Grid.Row="4"
+                Content="Student List"
+                Click="StudentListButton_Click"
+                FontWeight="Bold"
+                FontStyle="Italic" 
+                FontFamily="Rockwell Extra Bold"
+                FontSize="16"
+                Foreground="White"
+                Background="#00000000"/>
+
+        <Button Grid.Column="4"
+                Grid.ColumnSpan="4"
+                Grid.Row="2"
+                Content="Add Book"
+                Click="AddBookButton_Click"
+                FontWeight="Bold"
+                FontStyle="Italic" 
+                FontFamily="Rockwell Extra Bold"
+                FontSize="16"
+                Foreground="White"
+                Background="#00000000"/>
+
+        <Button Grid.Column="4"
+                Grid.ColumnSpan="4"
+                Grid.Row="3"
+                Content="Edit Book"
+                Click="EditBookButton_Click"
+                FontWeight="Bold"
+                FontStyle="Italic" 
+                FontFamily="Rockwell Extra Bold" 
+                FontSize="16"
+                Foreground="White"
+                Background="#00000000"/>
+
+        <Button Grid.Column="4"
+                Grid.ColumnSpan="4"
+                Grid.Row="4"
+                Content="Book List"
+                Click="BookListButton_Click"
+                FontWeight="Bold"
+                FontStyle="Italic" 
+                FontFamily="Rockwell Extra Bold"
+                FontSize="16"
+                Foreground="White"
+                Background="#00000000"/>
+
+        <Button Grid.Column="2"
+                Grid.ColumnSpan="4"
+                Grid.Row="7"
+                Content="View Record"
+                Click="ViewRecordButton_Click"
+                FontWeight="Bold"
+                FontStyle="Italic" 
+                FontFamily="Rockwell Extra Bold"
+                FontSize="16"
+                Foreground="White"
+                Background="#00000000"/>
+
+        <Button Grid.Column="2"
+                Grid.ColumnSpan="4"
+                Grid.Row="8"
+                Content="History"
+                Click="HistoryButton_Click"
+                FontWeight="Bold"
+                FontStyle="Italic" 
+                FontFamily="Rockwell Extra Bold"
+                FontSize="16"
+                Foreground="White"
+                Background="#00000000"/>
+
+        <Button Grid.Column="2"
+                Grid.ColumnSpan="4"
+                Grid.Row="5"
+                Content="Return Book"
+                Click="ReturnBookButton_Click"
+                FontWeight="Bold"
+                FontStyle="Italic" 
+                FontFamily="Rockwell Extra Bold"
+                FontSize="16"
+                Foreground="White"
+                Background="#00000000"/>
+        
+        <Button Grid.Column="2"
+                Grid.ColumnSpan="4"
+                Grid.Row="6"
+                Content="Borrow Book"
+                Click="BorrowBookButton_Click"
+                FontWeight="Bold"
+                FontStyle="Italic" 
+                FontFamily="Rockwell Extra Bold" 
+                FontSize="16"
+                Foreground="White"
+                Background="#00000000"/>
+
+        <Button Grid.Column="2"
+                Grid.ColumnSpan="4"
+                Grid.Row="9" 
+                Content="EXIT"
+                Click="ExitButton_Click"
+                FontWeight="Bold"
+                FontStyle="Italic" 
+                FontFamily="Rockwell Extra Bold"
+                FontSize="16"
+                Foreground="White"
+                Background="#00000000"/>
+
+        <Button Grid.Column="0"
+                Grid.ColumnSpan="2"
+                Grid.Row="6"
+                Grid.RowSpan="3"
+                x:Name="_notificationButton"
+                Click="NotificationButton_Click"
+                Background="#00000000">
+            <Image Source="/Images/notification.png"
+                   Stretch="Fill"/>
+        </Button>
+
+    </Grid>
+</Window>

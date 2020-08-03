@@ -1,0 +1,129 @@
+﻿<Window x:Class="Library_system_v2__database_SQLite_.RegisterWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library_system_v2__database_SQLite_"
+        mc:Ignorable="d" 
+        Closing="RegisterWindow_Closing"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanMinimize"
+        WindowStyle="None"
+        Height="200" 
+        Width="300">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Images/sign_up.png"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="0"
+               Grid.ColumnSpan="6"
+               Grid.Row="0"
+               Content="Create Admin Account"
+               VerticalContentAlignment="Center"
+               HorizontalContentAlignment="Center"
+               Foreground="#FFFDFDFD" 
+               FontWeight="Bold" 
+               FontSize="20"/>
+        
+        <Label Grid.Column="0"
+               Grid.ColumnSpan="2"
+               Grid.Row="1"
+               Content="Username:"
+               VerticalContentAlignment="Center"
+               HorizontalContentAlignment="Center"
+               Foreground="#FFFDFDFD" 
+               FontWeight="Bold" 
+               FontSize="16"/>
+
+        <TextBox Grid.Column="2"
+                 Grid.ColumnSpan="4"
+                 Grid.Row="1"
+                 Width="180"
+                 Height="30"
+                 VerticalContentAlignment="Center"
+                 HorizontalContentAlignment="Center"
+                 x:Name="_usernameTextBox" 
+                 FontWeight="Bold"/>
+
+        <Label Grid.Column="0"
+               Grid.ColumnSpan="2"
+               Grid.Row="2"
+               Content="Password:"
+               VerticalContentAlignment="Center"
+               HorizontalContentAlignment="Center"
+               Foreground="#FFFDFDFD" 
+               FontWeight="Bold" 
+               FontSize="16"/>
+
+        <PasswordBox Grid.Column="2"
+                     Grid.ColumnSpan="4"
+                     Grid.Row="2"
+                     Width="180"
+                     Height="30"
+                     VerticalContentAlignment="Center"
+                     HorizontalContentAlignment="Center"
+                     x:Name="_passwordBox" 
+                     FontWeight="Bold"/>
+
+        <Label Grid.Column="0"
+               Grid.ColumnSpan="2"
+               Grid.Row="3"
+               Content="Email:"
+               VerticalContentAlignment="Center"
+               HorizontalContentAlignment="Center"
+               Foreground="#FFFDFDFD" 
+               FontWeight="Bold" 
+               FontSize="16"/>
+
+        <TextBox Grid.Column="2"
+                 Grid.ColumnSpan="4"
+                 Grid.Row="3"
+                 Width="180"
+                 Height="30"
+                 VerticalContentAlignment="Center"
+                 HorizontalContentAlignment="Center"
+                 x:Name="_emailTextBox" 
+                 FontWeight="Bold"/>
+
+        <Button Grid.Column="2"
+                Grid.ColumnSpan="2"
+                Grid.Row="4"
+                Height="30"
+                Width="80"
+                Content="Register" 
+                FontWeight="Bold" 
+                FontSize="16"
+                Click="RegisterButton_Click"
+                Foreground="#FFFDFDFD"
+                Background="#00000000"/>
+
+        <Button Grid.Column="4"
+                Grid.ColumnSpan="2"
+                Grid.Row="4"
+                Height="30"
+                Width="80"
+                Content="Cancel" 
+                FontWeight="Bold" 
+                FontSize="16"
+                Click="CancelButton_Click"
+                Foreground="#FFFDFDFD"
+                Background="#00000000"/>
+
+    </Grid>
+</Window>

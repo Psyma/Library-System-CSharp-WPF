@@ -1,0 +1,20 @@
+﻿Library system v2 (database SQLite)
+
+
+winexe
+C#
+.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\
+Library_system_v2__database_SQLite_
+none
+false
+DEBUG;TRACE
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\App.xaml
+19-861277219
+
+34897868570
+19301985192
+AddBookWindow.xaml;AddStudentWindow.xaml;BookListWindow.xaml;ViewBooksLogs.xaml;BorrowBookWindow.xaml;EditBookWindow.xaml;EditStudentWindow.xaml;EnterPaymentWindow.xaml;HistoryWindow.xaml;LoginWindow.xaml;MainWindow.xaml;NotificationWindow.xaml;RegisterWindow.xaml;ReturnBookWindow.xaml;StudentListWindow.xaml;ViewReturnBookLogs.xaml;ViewStudentsLogs.xaml;ViewLoggingLogs.xaml;ViewRecordWindow.xaml;
+
+False
+

@@ -1,0 +1,122 @@
+﻿<Window x:Class="Library_system_v2__database_SQLite_.ViewLoggingLogs"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Library_system_v2__database_SQLite_"
+        mc:Ignorable="d"
+        Closing="ViewLoggingLogsWindow_Closing"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanMinimize"
+        WindowStyle="None"
+        Height="450" 
+        Width="1000">
+    <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="/Library system v2 (database SQLite);component/Images/galaxy1.png"/>
+        </Grid.Background>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="0"
+               Grid.ColumnSpan="8"
+               Grid.Row="0"
+               Grid.RowSpan="3"
+               VerticalContentAlignment="Center"
+               HorizontalContentAlignment="Center"
+               Content="Logging Logs Section"
+               FontWeight="Bold"
+               FontStyle="Italic" 
+               FontFamily="Rockwell Extra Bold" 
+               FontSize="34"
+               Foreground="White"/>
+
+        <ListView Grid.Column="0"
+                  Grid.ColumnSpan="8"
+                  Grid.Row="3"
+                  Grid.RowSpan="10"
+                  MaxHeight="290"
+                  Width="970"
+                  x:Name="_loggingLogsListView" 
+                  FontWeight="Bold">
+            <ListView.View>
+                <GridView>
+                    <GridView.ColumnHeaderContainerStyle>
+                        <Style TargetType="{x:Type GridViewColumnHeader}">
+                            <Setter Property="IsHitTestVisible" Value="False"/>
+                        </Style>
+                    </GridView.ColumnHeaderContainerStyle>
+                    <GridViewColumn Header="Admin Login time"
+                                    Width="240"
+                                    DisplayMemberBinding="{Binding AdminLoginTime}"/>
+                    <GridViewColumn Header="Admin Logout time"
+                                    Width="240"
+                                    DisplayMemberBinding="{Binding AdminLogoutTime}"/>
+                    <GridViewColumn Header="History Login time"
+                                    Width="240"
+                                    DisplayMemberBinding="{Binding HistoryLoginTime}"/>
+                    <GridViewColumn Header="History Logout time"
+                                    Width="240"
+                                    DisplayMemberBinding="{Binding HistoryLogoutTime}"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <Button Grid.Column="4"
+                Grid.ColumnSpan="2"
+                Grid.Row="13"
+                Grid.RowSpan="3"
+                Content="BACK"
+                Width="120"
+                Height="40"
+                Click="BackButton_Click"
+                FontWeight="Bold"
+                FontStyle="Italic" 
+                FontFamily="Rockwell Extra Bold"
+                HorizontalAlignment="Left"
+                FontSize="20"
+                Background="#00000000"
+                Foreground="White"/>
+
+        <Button Grid.Column="2"
+                Grid.ColumnSpan="2"
+                Grid.Row="13"
+                Grid.RowSpan="3"
+                Content="CLEAR"
+                Width="120"
+                Height="40"
+                Click="ClearButton_Click"
+                FontWeight="Bold"
+                FontStyle="Italic" 
+                FontFamily="Rockwell Extra Bold"
+                HorizontalAlignment="Right"
+                FontSize="20"
+                Background="#00000000"
+                Foreground="White"/>
+    </Grid>
+</Window>

@@ -1,0 +1,60 @@
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\Library system v2 (database SQLite).exe.config
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\Library system v2 (database SQLite).exe
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\Library system v2 (database SQLite).pdb
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\EntityFramework.dll
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\EntityFramework.SqlServer.dll
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\System.Data.SQLite.dll
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\EntityFramework.xml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\EntityFramework.SqlServer.xml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\System.Data.SQLite.xml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\System.Data.SQLite.dll.config
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\AddBookWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\AddStudentWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\BookListWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewBooksLogs.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\BorrowBookWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\EditBookWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\EditStudentWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\EnterPaymentWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\HistoryWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\LoginWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\MainWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\NotificationWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\RegisterWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ReturnBookWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\StudentListWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewReturnBookLogs.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewStudentsLogs.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewLoggingLogs.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewRecordWindow.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\App.g.cs
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite)_MarkupCompile.cache
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite)_MarkupCompile.lref
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\AddBookWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\AddStudentWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\BookListWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewBooksLogs.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\BorrowBookWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\EditBookWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\EditStudentWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\EnterPaymentWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\HistoryWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\LoginWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\MainWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\NotificationWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\RegisterWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ReturnBookWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\StudentListWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewReturnBookLogs.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewStudentsLogs.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewLoggingLogs.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewRecordWindow.baml
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).g.resources
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library_system_v2__database_SQLite_.Properties.Resources.resources
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).csproj.GenerateResource.cache
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).csproj.CoreCompileInputs.cache
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).csproj.CopyComplete
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).exe
+D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).pdb
