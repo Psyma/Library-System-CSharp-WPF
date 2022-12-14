@@ -70,7 +70,7 @@ namespace Library_system_v2__database_SQLite_ {
                 using (SmtpClient client = new SmtpClient()) {
                     client.EnableSsl = true;
                     client.UseDefaultCredentials = false;
-                    client.Credentials = new NetworkCredential("noreplyemail00123@gmail.com", "librarypassword");
+                    client.Credentials = new NetworkCredential("noreplyemail00123@gmail.com", "hphdjbavxqkicbzv");
                     client.Host = "smtp.gmail.com";
                     client.Port = 587;
                     client.DeliveryMethod = SmtpDeliveryMethod.Network;

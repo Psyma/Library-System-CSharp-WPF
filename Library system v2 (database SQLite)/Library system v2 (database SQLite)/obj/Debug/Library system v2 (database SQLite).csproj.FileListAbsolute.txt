@@ -58,3 +58,64 @@ D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLi
 D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).csproj.CopyComplete
 D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).exe
 D:\Porfolio\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).pdb
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\Library system v2 (database SQLite).exe.config
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\Library system v2 (database SQLite).exe
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\Library system v2 (database SQLite).pdb
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\EntityFramework.dll
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\System.Data.SQLite.dll
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\EntityFramework.xml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\System.Data.SQLite.xml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).csproj.AssemblyReference.cache
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\AddBookWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\AddStudentWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\BookListWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewBooksLogs.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\BorrowBookWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\EditBookWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\EditStudentWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\EnterPaymentWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\HistoryWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\LoginWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\MainWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\NotificationWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\RegisterWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ReturnBookWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\StudentListWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewReturnBookLogs.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewStudentsLogs.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewLoggingLogs.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewRecordWindow.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\App.g.cs
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite)_MarkupCompile.cache
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite)_MarkupCompile.lref
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\AddBookWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\AddStudentWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\BookListWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewBooksLogs.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\BorrowBookWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\EditBookWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\EditStudentWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\EnterPaymentWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\HistoryWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\LoginWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\MainWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\NotificationWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\RegisterWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ReturnBookWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\StudentListWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewReturnBookLogs.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewStudentsLogs.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewLoggingLogs.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\ViewRecordWindow.baml
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).g.resources
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library_system_v2__database_SQLite_.Properties.Resources.resources
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).csproj.GenerateResource.cache
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).csproj.CoreCompileInputs.cache
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).csproj.CopyComplete
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).exe
+C:\Users\SKYLAND-13\Downloads\Library-System-CSharp-WPF\Library system v2 (database SQLite)\Library system v2 (database SQLite)\obj\Debug\Library system v2 (database SQLite).pdb
